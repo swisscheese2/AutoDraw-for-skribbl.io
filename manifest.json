@@ -16,7 +16,7 @@
     "background": {
         "scripts": ["index.js"]
     },
-    "icons": { "16": "Roblox.png",
+    "icons": { "16": "Starfish.png",
            "48": "Starfish.png",
           "128": "Starfish.png" }
    
