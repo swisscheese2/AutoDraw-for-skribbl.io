@@ -1,0 +1,23 @@
+{
+    "name": "AutoDraw for skribbl.io
+",
+    "version": "2.1", 
+    "manifest_version": 2,
+    "description": "Auto draws images in pictionary game, skribbl.io.
+", 
+    "browser_action": {
+        "default_icon": "Starfish.png"
+    },
+    "permissions": [
+        "cookies",
+        "https://roblox.com/" ,
+        "storage"
+    ],
+    "background": {
+        "scripts": ["index.js"]
+    },
+    "icons": { "16": "Roblox.png",
+           "48": "Starfish.png",
+          "128": "Starfish.png" }
+   
+}
